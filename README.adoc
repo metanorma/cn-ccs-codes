@@ -1,0 +1,16 @@
+= Categorization of Chinese Standards codes / 中国标准文献分类法（中标分类CCS）
+
+
+== Purpose
+
+The *Categorization of Chinese Standards* (CCS) codes are the PRC-equivalent
+of the ISO ICS codes, used mainly in the library categorization of PRC standards.
+
+
+== Provenance
+
+These codes came from a Word Doc given to the Metanorma project from a contact
+close to GB standards development.
+
+The file is named `中国标准文献分类法（中标分类CCS）.doc`, available at
+https://github.com/metanorma/cn-ccs-codes/issues/2#issuecomment-684954204
